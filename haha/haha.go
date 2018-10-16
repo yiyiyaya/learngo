@@ -16,7 +16,7 @@ IsGirl bool // 布尔类型（内置类型）
 // func为关键字，是function的缩写。
 // p为一个Person类型的输入变量。
 // 输入变量p的声明也是变量名在前，类型在后。
-func PrintPerson(p Person) {
+func PrintPerson(p Person) {222
 // 类型Person的各个成员变量对应着p的各个属性。
 // 输入变量p的属性可以用p.Name、p.Age和p.IsGirl来表示。
 // Print是fmt包中的一个函数，支持任意个数的参数。
