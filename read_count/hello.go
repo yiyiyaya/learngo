@@ -16,4 +16,11 @@ func mian(){
  1,2,3,4,5}
  fmt.println(a,b,c,d)
  附近看过召开空间的附加值看过健康vnkzjdfn
+}234order
+
+
+function()
+{
+....
+}
 }hey
