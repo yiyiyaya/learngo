@@ -26,7 +26,7 @@ func main(){
      }
      for r,i:=range stat{
          fmt.Println(string(r),i)
-     }
+     }1111
       
      
 
